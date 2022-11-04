@@ -1,0 +1,1 @@
+id, datum, ime firme, iznos, beleska

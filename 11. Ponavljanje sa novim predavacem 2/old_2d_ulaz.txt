@@ -1,0 +1,5 @@
+test/qwe.log
+asd/test.log
+nema loga
+ima loga
+kraj
