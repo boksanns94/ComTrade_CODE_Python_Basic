@@ -3,6 +3,6 @@ from sys import argv
 
 print(argv) # argv predstavlja listu svih argumenata koji su prosledjeni komandi py
 # gde je uvek na poziciji 0 naziv pajton fajla koji se pokrece
-#tekst = "testiranje_argv.py 1 2 3 dusan sijacic"
-# -> ['testiranje_argv.py', '1', '2', '3', 'dusan', 'sijacic']
+#tekst = "7 testiranje_argv.py 1 2 3 dusan sijacic"
+# -> ['7 testiranje_argv.py', '1', '2', '3', 'dusan', 'sijacic']
 #print(tekst.split())

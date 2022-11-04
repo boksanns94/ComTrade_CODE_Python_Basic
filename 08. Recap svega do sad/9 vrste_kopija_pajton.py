@@ -34,7 +34,9 @@ l2 = l1.copy() # pozovemo metodu copy nad nekom listom
 
 print(l1,l2)
 print(id(l1),id(l2))
-print(id(l1[0]),id(l2[0]))
+print(id(l1[0]),id(l1[1]),id(l1[2]),id(l1[3]))
+print(id(l2[0]),id(l2[1]),id(l2[2]),id(l2[3]))
+
 l2[0] = 5 
 print(l1,l2)
 print(id(l1[0]),id(l2[0]))
